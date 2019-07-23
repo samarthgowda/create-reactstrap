@@ -10,7 +10,7 @@ export default function Footer() {
           <Row className="pb-md-5">
             <Col className="mt-md-0 mt-3 pb-3" md="6">
               <NavbarBrand tag={Link} to="/">
-                npm-create-reactstrap
+                create-reactstrap
               </NavbarBrand>
               <p className="text-muted">
                 Reactstrap boilterplate using create-react-app.

@@ -31,7 +31,7 @@ export default class MainNavbar extends React.Component {
       <Navbar color="dark" dark expand="md">
         <Container>
           <NavbarBrand tag={Link} to="/">
-            npm-create-reactstrap
+            create-reactstrap
           </NavbarBrand>
           <NavbarToggler onClick={this.toggle} className="border-0" />
           <Collapse isOpen={this.state.isOpen} navbar>
